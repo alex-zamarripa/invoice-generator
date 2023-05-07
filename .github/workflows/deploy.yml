@@ -1,3 +1,4 @@
+#file: noinspection YAMLSchemaValidation
 name: Deploy React Application
 
 # Controls when the action will run.
